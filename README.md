@@ -1,0 +1,2 @@
+# First_Come_First_Serve_Scheduling
+CPU_Scheduling
